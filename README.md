@@ -1,0 +1,8 @@
+# Insignia Connection Test
+Python-based XBMC4Xbox script that checks if your Xbox's DNS is properly connected to Insignia or not! Part of the [Cortana XBMC project](https://github.com/faithvoid/skin.cortana).
+
+![1](screenshots/1.png)
+
+## How to Install:
+- Copy the "Insignia Connection Test" folder to "Q:\scripts\Insignia Connection Test" on your Xbox, 
+- Run it from your Scripts menu!
