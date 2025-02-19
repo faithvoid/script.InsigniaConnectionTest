@@ -4,5 +4,5 @@ Python-based XBMC4Xbox script that checks if your Xbox's DNS is properly connect
 ![1](screenshots/1.png)
 
 ## How to Install:
-- Copy the "Insignia Connection Test" folder to "Q:\scripts\Insignia Connection Test" on your Xbox, 
+- Copy the "Insignia Connection Test" folder to "Q:\scripts\" on your Xbox
 - Run it from your Scripts menu!
